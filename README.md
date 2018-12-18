@@ -40,22 +40,22 @@ This is a To-Do List for your first Team project at the BFLO</school>
 	- [ ] Copy Resume to my @BFLOschool.com Google Apps
 
 2. Create a Checklist inside the **Build Website** Card
-	* "This is My Page" Title
-	* "My Name is ____" Header
-	* “I’m an aspiring Software Engineer” Body
-	* Change all on screen fonts to Arial
-	* Include your profile image
+	- [ ] "This is My Page" Title
+	- [ ] "My Name is ____" Header
+	- [ ] “I’m an aspiring Software Engineer” Body
+	- [ ] Change all on screen fonts to Arial
+	- [ ] Include your profile image
 		- Set profile image shape to circle with rounded corners
 		- Make the width and the height of the circle 200 pixels
-	* Provide link to your Linkedin Account: [Click to view my LinkedIn Profile](https://www.linkedin.com/in/axelneff/ "Axel Neff's LinkedIn")
+	- [ ] Provide link to your Linkedin Account: [Click to view my LinkedIn Profile](https://www.linkedin.com/in/axelneff/ "Axel Neff's LinkedIn")
 		- Change the color of the linke to #00c00 
 
 ### Chapter 1 Coding Project & Workflow Documentation
 1. Move **Build Website** Card on Trello board to **Doing**
 2. Open the **Build Website** Card, for each task listed;
-  * Start coding task for each To-Do List item
-  * Check the approviate box when completed
-  * Paste a screenshot of the snippet of corresponding code.
+	* Start coding task for each To-Do List item
+	* Check the approviate box when completed
+	* Paste a screenshot of the snippet of corresponding code.
 		- Command-Shift-Control-4 to copy screenshot to clipboard
 		- Command v to paste into Card
 	* Select **Comment** next to image and describe the image
