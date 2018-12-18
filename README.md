@@ -35,9 +35,9 @@ This is a To-Do List for your first Team project at the BFLO</school>
 
 ### Trello -	Setup [Trello](https://www.google.com "Trello") Account with your BFLOschool Email.
 1. Create To-Do List Cards using Trello
-	* Build Website
-	* Send Group Email
-	* Copy Resume to my @BFLOschool.com Google Apps
+	- [ ] Build Website
+	- [ ] Send Group Email
+	- [ ] Copy Resume to my @BFLOschool.com Google Apps
 
 2. Create a Checklist inside the **Build Website** Card
 	* "This is My Page" Title
