@@ -1,7 +1,7 @@
 # Chapter 1:  Team Project 1
 This is a To-Do List for your first Team project at the BFLO</school>
 
-##**Trello** -	Setup Trello Account with your @BFLOschool.com email.
+## **Trello** -	Setup Trello Account with your @BFLOschool.com email.
 1. Create ToDo List Cards
 ..* Build Website
 ..* Group Email
@@ -14,13 +14,13 @@ This is a To-Do List for your first Team project at the BFLO</school>
 ..* Set image shape to circle
 ..* Provide link to Linkedin Account: [Click to view my LinkedIn Profile](https://www.google.com "Axel Neff's LinkedIn")
 
-##**Chapter 1 Coding Project Workflow**
+## **Chapter 1 Coding Project Workflow**
 1. Start Website Development Project
 2. Document Project Workflow using Trello ToDo List Cards
 ..* For **Build Website Card** on Trello Board, Move to **Doing**
-..* Open the card, for each task listed on the card,
-...* check the checkbox when completed, and
-...* Paste a screenshot of the snippet of corresponding code.
+..* Open the *Build Website Card**, for each task listed on the card,
+  ..* check the checkbox when completed, and
+  ..* Paste a screenshot of the snippet of corresponding code.
 Command-Shift-Control-4 to copy screenshot to clipboard
 Command V to Paste into Card
 Select “Comment” next to image and describe the image
