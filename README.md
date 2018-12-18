@@ -17,12 +17,12 @@ This is a To-Do List for your first Team project at the BFLO</school>
 ## **Chapter 1 Coding Project Workflow**
 1. Start Website Development Project
 2. Document Project Workflow using Trello ToDo List Cards
-..* For **Build Website Card** on Trello Board, Move to **Doing**
-..* Open the *Build Website Card**, for each task listed on the card,
-  ..* check the checkbox when completed, and
-  ..* Paste a screenshot of the snippet of corresponding code.
-Command-Shift-Control-4 to copy screenshot to clipboard
-Command V to Paste into Card
+* For **Build Website Card** on Trello Board, Move to **Doing**
+* Open the *Build Website Card**, for each task listed on the card,
+  * check the checkbox when completed, and
+  * Paste a screenshot of the snippet of corresponding code.
+- Command-Shift-Control-4 to copy screenshot to clipboard
+- [ ] Command V to Paste into Card
 Select “Comment” next to image and describe the image
 For send Group Email Card
 Move to “Doing”
