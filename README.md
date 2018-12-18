@@ -6,7 +6,7 @@ This is a To-Do List for your first Team project at the BFLO</school>
 	* See your **Dashboard** for assigned team members and contact info.
 2. Introduce yourself and share one **Fun Fact** about you.
 
-###Slack - Join the BFLO School Slack
+### Slack - Join the BFLO School Slack
 1. Visit [Easley.Slack.com](https://www.easley.slack.com "Slack") to Create a Slack account 
 2. Enter your school email address
 2. Confirm Registration via email
@@ -74,7 +74,7 @@ This is a To-Do List for your first Team project at the BFLO</school>
 
 
 
-###StackOverflow - Create a New Account on StackOverflow
+### StackOverflow - Create a New Account on StackOverflow
 1. Setup New Account on [stackoverflow](https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent "stackoverflow signup") with @BFLOschool.com email. 
 2. Complete Setup Prompts;
 	* Things of interest  :
