@@ -5,22 +5,22 @@ This is a To-Do List for your first Team project at the BFLO</school>
 1. Create ToDo List Cards
 ..* Build Website
 ..* Group Email
-..* Copy Resume to @BFLOschool.com account Google Apps.
+..* Copy Resume to my @BFLOschool.com Google Apps
 2. Checklist for Build Website
 ..* “This is My Page” Title
 ..* “My Name is ____” Header
 ..* “I’m an aspiring Software Engineer” Body
 ..* Include Profile Image
 ..* Set image shape to circle
-..* Provide link to Linkedin Account: <a target="blank" href="https://www.linkedin.com/in/axelneff/"> Click to view my LinkedIn</a>
-[Click to view my LinkedIn](https://www.linkedin.com/in/axelneff/ "(target|_blank)")
-Complete Chapter 1 Coding Project
-Start Website Development
-For “Build Website Card” Trello Board
-Move to “Doing” on the KanBan board
-Open the card, for each task on the card,
-check the checkbox when completed, and
-Paste a screenshot of the snippet of code.
+..* Provide link to Linkedin Account: [Click to view my LinkedIn Profile](https://www.google.com "Axel Neff's LinkedIn")
+
+##**Chapter 1 Coding Project Workflow**
+1. Start Website Development Project
+2. Document Project Workflow using Trello ToDo List Cards
+..* For **Build Website Card** on Trello Board, Move to **Doing**
+..* Open the card, for each task listed on the card,
+...* check the checkbox when completed, and
+...* Paste a screenshot of the snippet of corresponding code.
 Command-Shift-Control-4 to copy screenshot to clipboard
 Command V to Paste into Card
 Select “Comment” next to image and describe the image
