@@ -68,7 +68,7 @@ This is a To-Do List for your first Team project at the BFLO</school>
 	* Add comment with a [link](https://www.drive.google.com "Google Docs") to your google doc resume
 	* Use *attach from google docs* feature found in Trello card comments
 	* Move **Copy Resume** to **Done**
-5. Once your Website is complete, share the link with your classmates on your **Cohort's** dedicated slack channel titled **Cygnet**. with the statement... "See my first about page"
+5. Once your Website is complete, share a *screen shot* of the page with classmates on your **Cohort's** dedicated slack channel titled **Cygnet**. with the statement... "See my first about page"
 7. If you have any questions on the project, use slack to ask for help through your team's private slack channel.
 	* If additional support is needed beyond your team, reach out to your **Cohort** channel for help.
 
